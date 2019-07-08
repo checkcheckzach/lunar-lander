@@ -2,7 +2,8 @@
 
 The original problem is described here: https://gym.openai.com/envs/LunarLander-v2/
 
-##How to Run
+How to Run:
+
 Download python 3 and install library numpy, matplotlib, keras, tensorflow, gym.
 Open cmd and run: 
 
